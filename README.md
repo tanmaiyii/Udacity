@@ -1,2 +1,2 @@
 # Udacity ML Projects
-This repo has all the projects for the Udacity Data Scientist Nanodegree
+This repo has all the projects that I have worked on for the Udacity Data Scientist Nanodegree
